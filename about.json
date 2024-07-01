@@ -6,21 +6,21 @@
     "mint-light": {
       "primary": "454545",
       "secondary": "F6FBFC",
-      "tertiary": "035880",
+      "tertiary": "15a3d5",
       "header_background": "ffffff",
       "header_primary": "111111",
-      "selected": "e3efec",
-      "hover": "e3efec"
+      "selected": "035880",
+      "hover": "035880c"
     },
     "mint-dark": {
       "primary": "e0e0e0",
       "secondary": "2d2d2d",
-      "tertiary": "036880",
+      "tertiary": "15a3d5",
       "header_background": "202020",
       "header_primary": "e0e0e0",
       "highlight": "b2b235",
-      "selected": "1c302b",
-      "hover": "1c302b"
+      "selected": "035880",
+      "hover": "035880"
     }
   },
   "components": [
