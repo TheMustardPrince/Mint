@@ -342,9 +342,10 @@ a:hover {
 .custom-search-banner-wrap {
   border-radius: var(--mint-border-radius);
   background: linear-gradient(
-    270deg,
-    var(--tertiary-medium) 0%,
-    var(--tertiary) 100%
+    30deg,
+    #0c4b5a,
+    #183035,
+    rgba(26,26,26,1)
   );
 }
 
